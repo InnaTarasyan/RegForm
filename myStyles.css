@@ -1,0 +1,23 @@
+div.centerText {
+    text-align:center;
+}
+table.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+span.error{
+    font-size: 30px;
+    color: red;
+}
+div.title{
+    font-size: 35px;
+}
+div.rightTopCorner {
+    position:absolute;
+    top:0;
+    right:10px;
+}
+img.simpleImage{
+    width: 200px;
+    height: 200px;
+}
